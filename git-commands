@@ -8,3 +8,24 @@ git push -u origin main
 ssh-add ~/.ssh/id_rsa
 ssh-keygen
 cat *.pub file location
+git status
+
+git status
+
+git restore .
+
+git add readme.md
+
+git commit -m "Main File login list inchuded"
+
+git add -A
+
+
+git brunch -a
+
+git checkout -b Loging_Control
+
+ls
+
+git push -u origin DB_Module_Conection
+
