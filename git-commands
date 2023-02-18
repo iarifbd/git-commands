@@ -7,7 +7,7 @@ git remote add origin git@github.com:iarifbd/CI3_HMVC_Modulers_Structure.git
 git push -u origin main
 ssh-add ~/.ssh/id_rsa
 ssh-keygen
-cat *.pub file location
+cat C:\Users\Arif/.ssh/id_rsa.pub
 git status
 
 git status
@@ -28,4 +28,15 @@ git checkout -b Loging_Control
 ls
 
 git push -u origin DB_Module_Conection
+
+
+C:\Users\Arif/.ssh/id_rsa.pub
+
+git remote rm origin
+
+git push -u origin main
+ 
+git push --all origin
+
+
 
